@@ -944,7 +944,7 @@
       <option name="number" value="Default" />
       <updated>1472632155584</updated>
       <workItem from="1472632158468" duration="14030000" />
-      <workItem from="1499255512025" duration="302000" />
+      <workItem from="1499255512025" duration="899000" />
     </task>
     <task id="LOCAL-00001" summary="update release&#10;">
       <created>1499255624743</created>
@@ -962,7 +962,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14332000" />
+    <option name="totallyTimeSpent" value="14929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
